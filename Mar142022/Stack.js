@@ -1,4 +1,4 @@
-// Arrays in JS make this easy, because they already have many stack functions built into them
+// Arrays in JS make this easy, because they already have many stack functions built into them. They all run in constant time as well
 
 class Stack {
     constructor() {
